@@ -1,0 +1,35 @@
+            {/* header start */}
+            <header>
+                <nav className="navbar navbar-expand-md pinkcolor">
+                <div className="container-fluid ">
+                    <h3>
+                    <a className="text-white text-decoration-none" href="index.html">
+                        sandip
+                    </a>
+                    </h3>
+                    <ul className="nav justify-content-end">
+                    <li className="nav-item">
+                        <a href="index.html" className="nav-link active text-white">
+                        Home
+                        </a>
+                    </li>
+                    <li className="nav-item">
+                        <a href="about.html" className="nav-link active text-white">
+                        About
+                        </a>
+                    </li>
+                    <li className="nav-item">
+                        <a href="projects.html" className="nav-link active text-white">
+                        Projects
+                        </a>
+                    </li>
+                    <li className="nav-item">
+                        <a href="contact.html" className="nav-link active text-white">
+                        Contact
+                        </a>
+                    </li>
+                    </ul>
+                </div>
+                </nav>
+            </header>
+            {/* header end */}

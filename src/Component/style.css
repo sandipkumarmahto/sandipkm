@@ -1,0 +1,59 @@
+body{
+    height: 100%;
+}
+
+/* color combination */
+/* skblue */
+.skycolor{
+    background-color: #89ABE3;
+    
+}
+.text-skycolor{
+    color: #358dc0;
+    font-family: serif;
+    font-weight: 800;
+    
+}
+/* Bubblegum pink */
+.pinkcolor{
+    background-color: #EA738D;
+}
+.text-pinkcolor{
+    color: #EA738D;
+    font-family: "sofia", sans-serif;
+}
+/* word color white */
+.link-white{
+    color: white;
+    text-decoration: none;
+}
+/* bakground color */
+.bgcolor{
+    background-color: #F3FAFF;
+}
+.main-first{
+    height: 800px; 
+}
+.main-first-grid{
+    min-height: 100vh;
+    
+    
+}
+.frontpic{
+    height: 400px;
+    width: 350px;
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;   */
+}
+
+.footer{
+    position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+}
+
